@@ -1,0 +1,88 @@
+body {margin:20;
+           background-color : #000000;
+      COLOR:#FFFFFF;
+      FONT-FAMILY:CHANDAS;}
+
+ FIELDSET{  border:solid #080008 8px; 
+            padding:8px;
+            TEXT-ALIGN:LEFT;
+            }
+          
+    Legend{border:solid 0px #ffffff;
+            padding:5px;
+            font-weight: bold;
+            background: #080008;
+            COLOR:#FFFFFF;}
+
+
+A {color: #7B18A7;}
+
+
+a:visited {color: #D6A6FA;}
+
+
+a:hover {color:#faefa6;}
+
+
+table {border-collapse: collapse;
+           border: 2px solid violet;
+           table-layout: fixed;
+           width:100%}
+
+
+td {padding: 5px;
+      border: 1px solid violet;}
+
+
+th {color:white;
+      background-color: violet;
+      padding: 5px}
+
+
+tr {height:45px;}
+
+
+H1 { 
+           font-size: 50px;
+           line-height: 30px;
+           color: #ffffff;
+           text-align: center;
+           font-style: bold;
+            BACKGROUND:#080008}}
+
+
+.subtitulo1 {
+                    font-size: 17px;
+                    line-height: 20px;
+                    font-weight: bold;
+                    color: #7b18a7;
+                    font-style: normal;
+                    text-align: center;}
+
+
+.normal  {
+                 font-size: 14px;
+                 line-height: 20px;
+                 color:#7b18a7;
+                 font-weight: bold;
+                 text-align: justify;
+                 font-style: normal;}
+
+
+.derecha {
+                 font-size: 14px;
+                 line-height: 20px;
+                 color:#7b18a7;
+                 font-weight: bold;
+                 text-align: right;
+                 font-style: normal;}
+
+
+.estilo24 {font-size: 24pt;
+                color: #fe7747;
+                text-align:center;}
+                
+                
+.achesinco  {font-size: 8pt;
+                color: #fe7747;
+                text-align:center;}
