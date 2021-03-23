@@ -3,7 +3,7 @@ body {margin:20;
       COLOR:#FFFFFF;
       FONT-FAMILY:CHANDAS;}
 
- FIELDSET{  border:solid #080008 8px; 
+ FIELDSET{  border:solid #090009 8px; 
             padding:8px;
             TEXT-ALIGN:LEFT;
             }
@@ -11,7 +11,7 @@ body {margin:20;
     Legend{border:solid 0px #ffffff;
             padding:5px;
             font-weight: bold;
-            background: #080008;
+            background: #090009;
             COLOR:#FFFFFF;}
 
 
@@ -48,7 +48,7 @@ H1 {
            color: #ffffff;
            text-align: center;
            font-style: bold;
-            BACKGROUND:#080008}}
+            BACKGROUND:#090009}
 
 
 .subtitulo1 {
